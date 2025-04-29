@@ -17,16 +17,16 @@ Withdraw money from an account (with balance validation)
 Delete an account
 
 📂 Project Structure
-src/main/java/net/java/banking
-│
-├── controller        # REST Controllers
-├── dto               # Data Transfer Objects
-├── entity            # Database Entities
-├── mapper            # DTO-Entity Mapping
-├── repository        # Spring Data JPA Repositories
-├── service           # Service Layer Interfaces
-├── service/impl      # Service Layer Implementations
-└── BankingAppApplication.java  # Main Application Runner
+  src/main/java/net/java/banking
+  │
+  ├── controller        # REST Controllers
+  ├── dto               # Data Transfer Objects
+  ├── entity            # Database Entities
+  ├── mapper            # DTO-Entity Mapping
+  ├── repository        # Spring Data JPA Repositories
+  ├── service           # Service Layer Interfaces
+  ├── service/impl      # Service Layer Implementations
+  └── BankingAppApplication.java  # Main Application Runner
 
 
 🛠 How to Run
