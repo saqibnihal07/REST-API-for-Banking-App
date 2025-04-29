@@ -18,15 +18,15 @@ Delete an account
 
 📂 Project Structure
 src/main/java/net/java/banking
-│
-├── controller        # REST Controllers
-├── dto               # Data Transfer Objects
-├── entity            # Database Entities
-├── mapper            # DTO-Entity Mapping
-├── repository        # Spring Data JPA Repositories
-├── service           # Service Layer Interfaces
-├── service/impl      # Service Layer Implementations
-└── BankingAppApplication.java  # Main Application Runner
+
+src ── controller        # REST Controllers,
+src ── dto               # Data Transfer Objects,
+src ── entity            # Database Entities,
+src ── mapper            # DTO-Entity Mapping,
+src ── repository        # Spring Data JPA Repositories,
+src ── service           # Service Layer Interfaces,
+src ── service/impl      # Service Layer Implementations,
+src ── BankingAppApplication.java  # Main Application Runner
 
 
 🛠 How to Run
