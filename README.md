@@ -30,6 +30,7 @@ src/main/java/net/java/banking
 
 
 🛠 How to Run
+
 Clone the repository
 git clone https://github.com/saqibnihal07/banking-app.git
 cd banking-app
