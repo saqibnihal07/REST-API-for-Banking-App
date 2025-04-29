@@ -1,14 +1,14 @@
 A real-time Banking Application built with Java, Spring Boot, Spring Data JPA (Hibernate), and MySQL.
 This project provides RESTful APIs for core banking operations like account creation, balance deposit, withdrawal, fetching account details, and deleting accounts.
 
-🚀 Tech Stack
-Java 17
-Spring Boot
-Spring Data JPA (Hibernate)
-MySQL Database
+🚀 Tech Stack -->
+Java 17,
+Spring Boot,
+Spring Data JPA (Hibernate),
+MySQL Database,
 Maven
 
-📚 Features
+📚 Features --> 
 Create a new bank account
 Get account details by ID
 View all existing accounts
@@ -17,16 +17,16 @@ Withdraw money from an account (with balance validation)
 Delete an account
 
 📂 Project Structure
-  src/main/java/net/java/banking
-  │
-  ├── controller        # REST Controllers
-  ├── dto               # Data Transfer Objects
-  ├── entity            # Database Entities
-  ├── mapper            # DTO-Entity Mapping
-  ├── repository        # Spring Data JPA Repositories
-  ├── service           # Service Layer Interfaces
-  ├── service/impl      # Service Layer Implementations
-  └── BankingAppApplication.java  # Main Application Runner
+src/main/java/net/java/banking
+│
+├── controller        # REST Controllers
+├── dto               # Data Transfer Objects
+├── entity            # Database Entities
+├── mapper            # DTO-Entity Mapping
+├── repository        # Spring Data JPA Repositories
+├── service           # Service Layer Interfaces
+├── service/impl      # Service Layer Implementations
+└── BankingAppApplication.java  # Main Application Runner
 
 
 🛠 How to Run
